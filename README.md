@@ -20,27 +20,6 @@ Including ideas and processes
 
 
 
-**Important Dates**
-
-[GECCO](https://gecco-2020.sigevo.org/index.html/Call+for+Papers)
-
-* Abstract Deadline: **January 30, 2020**
-* Submission of Full Papers: **February 6, 2020**
-
-[WCCI](https://wcci2020.org/calls/)
-
-* Submission deadline:  **January 15, 2020**
-
-[IJCAI-PRICAI](https://www.ijcai20.org/call-for-papers.html)
-
-* Abstract submission deadline: **January 15, 2020**
-* Paper submission deadline: **January 21, 2020**
-
-[PPSN](https://ppsn2020.liacs.leidenuniv.nl/)
-
-* Abstract submission deadline: **April 1, 2020**
-* Paper submission deadline: **April 8, 2020**
-
 ## Game
 
 Based on [《Evolving Mario Levels in the Latent Space of a Deep Convolutional Generative Adversarial Network》](https://arxiv.org/abs/1805.00728)
