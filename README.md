@@ -27,4 +27,9 @@ Key points: GAN, CMA-ES, Latent variable evolution
 
 ### Daily summary
 
-Dec 12 2019
+Dec 12 2019: 
+
+### Related 
+
+[About Generative Adversarial Network (GAN)](https://github.com/yzy1996/Artificial-Intelligence/tree/master/Machine-Learning/GAN)
+
