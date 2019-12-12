@@ -25,5 +25,6 @@ Key points: GAN, CMA-ES, Latent variable evolution
 * 3、检测故障的块在GAN中
 * 4、多目标的组合情况，现在是线性组合，如何组合，多目标算法，取舍
 
-
 ### Daily summary
+
+Dec 12 2019
