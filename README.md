@@ -37,7 +37,7 @@ Key points: GAN, CMA-ES, Latent variable evolution
 ### Ideas
 
 * 1、用进化算法寻找潜在向量的方法不好，因为是不连续的函数，相关性很低
-* 2、衡量难度不应该用跳跃次数，应该用noisy下的成功几率
+* 2、衡量难度不应该用跳跃次数，应该用noisy下的成功几率，抗干扰能力，不找最好的AI
 * 3、检测故障的块在GAN中
 * 4、多目标的组合情况，现在是线性组合，如何组合，多目标算法，取舍
 
@@ -49,7 +49,13 @@ Key points: GAN, CMA-ES, Latent variable evolution
 
 Dec 12 2019: 
 
-### Related 
+### Related Links
 
 [About Generative Adversarial Network (GAN)](https://github.com/yzy1996/Artificial-Intelligence/tree/master/Machine-Learning/GAN)
+
+
+
+### Related Papers
+
+[Searching the Latent Space of a Generative Adversarial Network to Generate DOOM Levels](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848011) 同样运用CMA-ES+GAN，只是迁移到了ZOOM这一个游戏
 
