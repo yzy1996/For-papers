@@ -45,9 +45,7 @@ Key points: GAN, CMA-ES, Latent variable evolution
 
 [Evolving Mario Levels whole project](https://github.com/TheHedgeify/DagstuhlGAN)
 
-### Daily summary
 
-Dec 12 2019: 
 
 ### Related Links
 
@@ -59,3 +57,12 @@ Dec 12 2019:
 
 [Searching the Latent Space of a Generative Adversarial Network to Generate DOOM Levels](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848011) 同样运用CMA-ES+GAN，只是迁移到了ZOOM这一个游戏
 
+
+
+### Daily summary
+
+Dec 12 2019: update the part of ideas
+
+Dec 13 2019: solve the problem of java
+
+Dec 14 2019: try the GAN, and WGAN
