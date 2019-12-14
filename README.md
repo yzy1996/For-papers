@@ -29,17 +29,37 @@ Key points: GAN, CMA-ES, Latent variable evolution
 ### Problems
 
 * 1、Certain broken structures in the output
-
-### Solutions
-
-* text (symbol sequence) generation models such as LSTMs
+* 2、how to evaluate the game map generation
 
 ### Ideas
 
 * 1、用进化算法寻找潜在向量的方法不好，因为是不连续的函数，相关性很低
 * 2、衡量难度不应该用跳跃次数，应该用noisy下的成功几率，抗干扰能力，不找最好的AI
 * 3、检测故障的块在GAN中
-* 4、多目标的组合情况，现在是线性组合，如何组合，多目标算法，取舍
+* 4、多目标的组合情况，现在是线性组合，如何组合，多目标算法，取舍，加入偏好性
+
+### Solutions
+
+#### evaluation
+
+* 1、(数值) 比较loss
+* 2、(数值) Agent玩的分数，用A,B两个play算法去玩，用performance的差值作为指标，相对值比绝对值更有说服力 iipp，差值大体现区别性，体现游戏的难度
+* 3、(非数值) 人来评判，问卷调查
+
+* 4、(数值) 评价难度，给agent加噪声，再看成功率
+
+#### EA
+
+* 1+1ES 
+* CMA-ES
+
+
+
+### Algorithm
+
+#### play 
+
+random play(不动)、MCTS、A*、EA
 
 ### Code
 
@@ -51,11 +71,13 @@ Key points: GAN, CMA-ES, Latent variable evolution
 
 [About Generative Adversarial Network (GAN)](https://github.com/yzy1996/Artificial-Intelligence/tree/master/Machine-Learning/GAN)
 
+[The Video Game Level Corpus](https://github.com/TheVGLC/TheVGLC)
+
 
 
 ### Related Papers
 
-[Searching the Latent Space of a Generative Adversarial Network to Generate DOOM Levels](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848011) 同样运用CMA-ES+GAN，只是迁移到了ZOOM这一个游戏
+[Searching the Latent Space of a Generative Adversarial Network to Generate DOOM Levels](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848011) 同样运用CMA-ES+GAN，只是迁移到了DOOM这一个游戏
 
 
 
