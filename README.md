@@ -65,4 +65,4 @@ Dec 12 2019: update the part of ideas, figure out the concept of CMA-ES and Late
 
 Dec 13 2019: solve the problem of java
 
-Dec 14 2019: try the GAN, and WGAN
+Dec 14 2019: try the GAN, and WGAN, meet the problem that version old
