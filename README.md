@@ -61,7 +61,7 @@ Key points: GAN, CMA-ES, Latent variable evolution
 
 ### Daily summary
 
-Dec 12 2019: update the part of ideas
+Dec 12 2019: update the part of ideas, figure out the concept of CMA-ES and Latent vector
 
 Dec 13 2019: solve the problem of java
 
