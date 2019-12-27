@@ -73,18 +73,14 @@ random play(不动)、MCTS、A*、EA
 
 [The Video Game Level Corpus](https://github.com/TheVGLC/TheVGLC)
 
+[Mario-AI-Framework](https://github.com/amidos2006/Mario-AI-Framework)
+
 
 
 ### Related Papers
 
 [Searching the Latent Space of a Generative Adversarial Network to Generate DOOM Levels](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848011) 同样运用CMA-ES+GAN，只是迁移到了DOOM这一个游戏
 
+[Intentional Computational Level Design](https://arxiv.org/pdf/1904.08972.pdf) 2019 用的Feasible-Infeasible 2-Population (FI2Pop) and Constrained Map-Elites
 
 
-### Daily summary
-
-Dec 12 2019: update the part of ideas, figure out the concept of CMA-ES and Latent vector
-
-Dec 13 2019: solve the problem of java
-
-Dec 14 2019: try the GAN, and WGAN, meet the problem that version old
