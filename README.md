@@ -84,3 +84,5 @@ random play(不动)、MCTS、A*、EA
 [Intentional Computational Level Design](https://arxiv.org/pdf/1904.08972.pdf) 2019 用的Feasible-Infeasible 2-Population (FI2Pop) and Constrained Map-Elites
 
 
+
+https://aibirds.org/call-for-papers.html
