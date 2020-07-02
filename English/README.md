@@ -6,6 +6,8 @@ denote as 表示为
 
 the core difficulty 核心困难
 
+prohibitively high cost
+
 
 
 so-called 所谓的
