@@ -18,7 +18,7 @@ xx struggle to do sth
 
 shortcoming drawback disadvantage defect
 
-
+For the sake of convenience 方便起见
 
 
 
@@ -55,4 +55,26 @@ We argue that it is more desirable to xx
 are twofold 有两部分
 
 exclusive 独有的
+
+
+
+
+
+Examples of the former include, xxx. For the latter, xxx
+
+
+
+
+
+关键点：
+
+the crux of xxx 
+
+
+
+
+
+To overcome aforementioned limitations  we present a new
+
+fig1 depicts
 
