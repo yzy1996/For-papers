@@ -1,3 +1,11 @@
+## Latex 公式保存为图
+
+https://latex.vimsky.com/
+
+
+
+
+
 画神经网络
 
 
@@ -13,4 +21,17 @@ Visualizer for neural network, deep learning and machine learning models—— [
 Publication-ready NN-architecture schematics 
 
 [NNSVG]( http://alexlenail.me/NN-SVG/ )
+
+
+
+
+
+## 甘特图 gantt chart
+
+
+
+两套推荐方案：
+
+1. mermaid-js.github.io
+2. online.officetimeline.com
 
